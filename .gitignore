@@ -8,3 +8,12 @@
 **/.settings
 **/.classpath
 **/.DS_Store
+
+# IntelliJ Files
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Generated files
+application/dependency-reduced-pom.xml
